@@ -1,0 +1,12 @@
+1. Setting and planning limits for free and pro-users in terms of AI summary and rooms creation.
+2. making the room to add the retro notes as coloum like create a coloum (n number of coloum, add the colums) and add the respective retro-node.
+3. in retro note, add the features to another team members of comment and view it and make a animative reactions like and unlike of the retronote
+4. And improve the display all the participants as ciruclar avatar sequence, and dim the non-active/ offline guest/ user of room and brigthen the active/ online user in retro room.
+5. And also in AI summary, shows the ray AI's output, so fix it and convert it readable and markdown converted format shows the heading, bold and other things properly.
+6. Corporate email validation is not working well fix it.
+7. for each user, display the previously joined room in their dashboard.
+8. In dashboard page, use vertical tabs navigation instead of normal nav bar.
+9. in signup page, remove the for corporate and social, just give all the content in single page and also do the same for login page.
+10. Disable the theme changing section, only light theme is far enough.
+11. In retro room, make some gamified animation to keep engage of the retrospective.
+12. And in non-private room, show and allow features to make their name anonymous, but logged in is mandatory.
