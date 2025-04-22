@@ -50,13 +50,13 @@ GROQ_API_KEY=your_groq_api_key
 git clone https://github.com/dhanushk-offl/letretro_v2.git
 
 # Install dependencies
-pnpm install
+npm install
 
 # Run development server
-pnpm dev
+npm dev
 
 # Build for production
-pnpm build
+npm build
 ```
 
 ## 🏗️ Architecture
